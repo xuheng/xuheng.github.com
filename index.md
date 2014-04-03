@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Happy Day
-tagline: Everything is ok
+tagline: 我是一个电话虫，布鲁布鲁布鲁.....
 ---
 {% include JB/setup %}
 
