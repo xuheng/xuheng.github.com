@@ -28,15 +28,16 @@ tags : [osx,github,jekyll,搭建博客]
 
 2.安装jekyll:`sudo gem install jekyll`，直接安装的话，应该会报错，所以需要按以下几步走 唉--！		
 		
-		asdfasdf
-		asdfasdf
-		asdfasdf
+		curl -L https://get.rvm.io | bash -s stable --ruby
+		rvm pkg install openssl
+		rvm reinstall all --force
+		rvm remove 2.0.0
+		rvm install 1.9.3 -C --with-openssl-dir=$HOME/.rvm/usr
+		sudo gem install jekyll
 
+3.接下来用`jekyll serve`试试
 
-
-
-
-3.至此jekyll应该已经装好了，再装不好，那就是人品实在太差了
+4.至此jekyll应该已经装好了，再装不好，那就是人品实在太差了
 
 
 怎么样是不是非常方便，赶紧开始写博吧:)
