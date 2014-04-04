@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Happy Day
-tagline: 我是一个电话虫，布鲁布鲁布鲁.....
+title: 
+tagline: 分享工作生活中各种资讯
 ---
 {% include JB/setup %}
 
@@ -17,10 +17,16 @@ tagline: 我是一个电话虫，布鲁布鲁布鲁.....
 
 ## About me
 -
+Name : Edwan 
+
 Github : [github.com/xuheng](https://github.com/xuheng)
 
 Email : 312338568@qq.com
 
-Profession : 百度工程师，致力于前后端开发，精通php、nodejs、js、C#等
+Profession : 百度工程师，主要从事移动端web app前后端开发，后端主要为nodejs php
+
+Interest : 骑车、旅行、乐器、做饭...
+
+Dream : 去日本踩把动漫的点挨着踩一踩...
 
 <img src="images/portrait.jpg" width="200" height="200" />
