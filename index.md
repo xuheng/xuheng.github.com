@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:Ed‘s blog 
 tagline: 分享工作生活中各种资讯
 ---
 {% include JB/setup %}
