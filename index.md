@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ed blog - enjoy my life
-
 {% include JB/setup %}
 
 
