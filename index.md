@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Ed blog - we have a dream 
-tagline: 分享工作生活中各种资讯
----
+title: Ed blog - enjoy my life
 {% include JB/setup %}
 
 
