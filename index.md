@@ -7,7 +7,6 @@ title: Ed blog - enjoy my life
 
 
 ## Latest article
--
 
 <ul class="posts">
 {% for post in site.posts %}
