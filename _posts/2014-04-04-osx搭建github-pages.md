@@ -3,7 +3,6 @@ layout: post
 category : tool
 tags : [osx,github,jekyll,搭建博客] 
 ---
-{% include JB/setup %}
 
 ## 一句话
 主要介绍下mac下搭建github pages,针对用mac终端开发的用户
