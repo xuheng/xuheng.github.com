@@ -1,7 +1,6 @@
 ---
 layout: post
-category : tool
-tags : [osx,github,jekyll,搭建博客] 
+tags : [osx github jekyll 搭建博客] 
 ---
 
 ## 一句话
