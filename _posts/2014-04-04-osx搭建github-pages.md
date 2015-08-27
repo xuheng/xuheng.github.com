@@ -41,3 +41,5 @@ tags : [osx github jekyll 搭建博客]
 怎么样是不是非常方便，赶紧开始写博吧:)
 
 #####注：在用博客的时候，可能不想用`jekyll bootstrap`的主题，想自己捣鼓下，没有关系，如果有node环境的话，用npm安装一个less编译工具就可以了`npm install -g less`
+
+如果你喜欢ED的文章就赶紧点`赞`吧~~
