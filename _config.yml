@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Ed`s Home - 分享技术分享生活 "
+title: "Ed`s Home - 分享技术感悟生活 "
 description: ""
 email: 312338568@qq.com
 logo: "/assets/images/ed_logo.png"
