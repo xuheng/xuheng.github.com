@@ -3,22 +3,16 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Edwan"
-description: > # this means to ignore newlines until "email:"
-   Ed`s Home - 聊聊代码聊聊生活 
-
+title: "Ed`s Home - 分享技术分享生活 "
+description: ""
 email: 312338568@qq.com
-#blog logo
 logo: "/assets/images/ed_logo.png"
-# blog cover
 cover: "/assets/images/desktop.png "
-
+wechat: "微信公众号:edwan"
 name: 'Xsu Edwan'
 author: 'Xsu Edwan'
 author_image: "/assets/images/author.png"
-
 paginate:	20
-
 url: "http://cnedwan.com" # the base hostname & protocol for your site
 baseurl: ""
 

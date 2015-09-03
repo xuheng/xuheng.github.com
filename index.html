@@ -12,10 +12,10 @@ layout: default
     {% if site.logo %}
       <a class="blog-logo" href="{{site.url}}" style="background-position: -47px 0px;background-image: url('{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
-    <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
+    <h1 class="blog-title"></h1>
+    <h2 class="blog-description">{{site.wechat}}</h2>
     <div class="custom-links">
-      {% for social in site.social %}
+        {% for social in site.social %}
         {% if social.url %}
             <a class="icon-{{ social.icon }}" href="{{ social.url }}">
               <i class="fa fa-{{ social.icon }}"></i>
