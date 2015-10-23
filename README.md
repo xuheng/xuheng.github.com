@@ -1,1 +1,1 @@
-welcome to  Ed's blog,u can click [this](www.cnedwan.com)
+welcome to  Ed's blog,u can click [here](cnedwan.com)
