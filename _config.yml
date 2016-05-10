@@ -12,7 +12,7 @@ wechat: "微信公众号:edwan"
 name: 'Xsu Edwan'
 author: 'Xsu Edwan'
 author_image: "/assets/images/author.png"
-paginate:	20
+paginate:	15
 url: "http://cnedwan.com" # the base hostname & protocol for your site
 baseurl: ""
 
