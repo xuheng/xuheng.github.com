@@ -37,3 +37,6 @@ comments :
 provider : duoshuo
 duoshuo :
     short_name : edwan
+
+gems: [jekyll-paginate]
+highlighter: rouge
