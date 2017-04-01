@@ -13,7 +13,7 @@ name: 'Xsu Edwan'
 author: 'Xsu Edwan'
 author_image: "/assets/images/author.png"
 paginate:	15
-url: "http://cnedwan.com" # the base hostname & protocol for your site
+url: "http://edwan.cn" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
