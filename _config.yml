@@ -33,10 +33,7 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-comments :
-provider : duoshuo
-duoshuo :
-    short_name : edwan
+comments: true
 
 gems: [jekyll-paginate]
 highlighter: rouge
